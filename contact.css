@@ -1,0 +1,16 @@
+#contact #category{
+    background-color: #eeeeee;
+    color: black;
+    display: flex;
+    flex-direction: column;
+    position: absolute;
+    top: 3.4%;
+    margin-left: -4rem;
+    z-index: 100;
+    width: 10vw;
+    padding: 2%;
+    height: 75vh;
+    align-items: center;
+    justify-content: space-between;
+    visibility: hidden;
+}
