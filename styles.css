@@ -201,6 +201,7 @@
     height: 100%;
     margin-left: 10rem;
     margin-top: -7rem;
+    border: 1px solid red;
 }
 
 #main #one #one-right img {
